@@ -1,0 +1,5 @@
+C:\Users\roose\Documents\Projetos\LojaAPI\obj\Debug\netcoreapp3.1\LojaAPI.csprojAssemblyReference.cache
+C:\Users\roose\Documents\Projetos\LojaAPI\obj\Debug\netcoreapp3.1\LojaAPI.AssemblyInfoInputs.cache
+C:\Users\roose\Documents\Projetos\LojaAPI\obj\Debug\netcoreapp3.1\LojaAPI.AssemblyInfo.cs
+C:\Users\roose\Documents\Projetos\LojaAPI\obj\Debug\netcoreapp3.1\LojaAPI.csproj.CoreCompileInputs.cache
+C:\Users\roose\Documents\Projetos\LojaAPI\obj\Debug\netcoreapp3.1\LojaAPI.MvcApplicationPartsAssemblyInfo.cache
