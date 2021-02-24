@@ -19,7 +19,7 @@ namespace LojaAPI.Controller
 			return categories;
 		}
 
-		[HttpGet]
+		[HttpPost]
 		[Route("")]
 		public async Task<ActionResult<Category>> Post([FromServices] DataContext context, [FromBody] Category model)
 		{
@@ -34,6 +34,8 @@ namespace LojaAPI.Controller
 				return BadRequest(ModelState);
 			}
 		}
+
+
 
 	}
 }
