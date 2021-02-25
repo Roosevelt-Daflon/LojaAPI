@@ -21,7 +21,7 @@ namespace LojaAPI.Models
 		public decimal Price { get; set; }
 
 		[Required(ErrorMessage = "Este campo é obrigatório")]
-		[Range(1, int.MaxValue, ErrorMessage = "O preço deve ser maior que zero")]
+		[Range(1, int.MaxValue, ErrorMessage = "id da categoria invalido")]
 		public int CategoryId { get; set; }
 		public Category Category;
 	}
